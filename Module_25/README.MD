@@ -3,7 +3,6 @@
 **Project URL**: https://petfriends.skillfactory.ru/login
 
 `settings.py` - информация о действующем логине и пароле.<br>
-`conftest.py` - файл конфигурации<br>
 `valid_email` - "<email при регистрации в API>"<br>
 `valid_password` - "<пароль для email>"
 
